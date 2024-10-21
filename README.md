@@ -22,4 +22,4 @@ To get started with the Rocket Landing Game:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rocket-landing-game.git
+   git clone https://github.com/Frost2204/Project-Mars
